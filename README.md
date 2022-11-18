@@ -2,7 +2,7 @@
 
 This is the source code for paper "Dynamic Searchable Encryption Supporting Strict Conjunctive Keyword Search with Forward Security and Accurate Ranking"
 
-### Dependency
+### Dependence
 
 ```
 visual studio
