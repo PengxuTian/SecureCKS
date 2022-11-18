@@ -1,8 +1,0 @@
-﻿  new.cpp
-e:\vslib\new\new\client.h(222): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-e:\vslib\new\new\client.h(305): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-e:\vslib\new\new\new.cpp(205): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-e:\vslib\new\new\new.cpp(439): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  sdk.cpp
-  正在生成代码...
-  new.vcxproj -> E:\VSlib\new\x64\Debug\new.exe
